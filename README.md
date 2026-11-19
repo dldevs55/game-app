@@ -16,3 +16,5 @@ cd game-app
 ```
 
 Build, run, and test instructions will be added as the application takes shape.
+
+Let's go.
